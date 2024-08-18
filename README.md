@@ -11,7 +11,6 @@ The main goal of this project is to extract insights about customer behavior in 
 - Spending habits for online vs. offline orders
 - Rating distributions and comparisons
 - Order patterns across various restaurant types
-- 
 
 ## Installation 🛠️
 
